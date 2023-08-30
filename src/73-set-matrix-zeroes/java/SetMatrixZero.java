@@ -1,5 +1,5 @@
 
-public class Solution {
+public class SetMatrixZero {
     // initial solution using top down and bottom up iteration
     public void setZeroes(int[][] matrix) {
         int colStart = 1, rowLen = matrix.length, colLen = matrix[0].length;
