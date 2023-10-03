@@ -11,7 +11,7 @@ Return `true` *if there is a cycle in the linked list*. Otherwise, return `false
 
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
+![alt text](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
 ```console
 Input: head = [3,2,0,-4], pos = 1
 Output: true
@@ -19,7 +19,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 ```
 
 ### Example 2:
-[Example 2 image](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
+![alt text](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
 ```console
 Input: head = [1,2], pos = 0
 Output: true
@@ -27,7 +27,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 ```
 
 ### Example 3:
-[Example 3 image](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
+![alt text](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
 ```console
 Input: head = [1], pos = -1
 Output: false

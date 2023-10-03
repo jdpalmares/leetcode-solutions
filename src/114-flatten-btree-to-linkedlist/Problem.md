@@ -9,7 +9,7 @@ Given the `root` of a binary tree, flatten the tree into a "linked list":
 - The "linked list" should be in the same order as a [pre-order traversal](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order,_NLR) of the binary tree.
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg)
+![alt text](https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg)
 ```console
 Input: root = [1,2,5,3,4,null,6]
 Output: [1,null,2,null,3,null,4,null,5,null,6]

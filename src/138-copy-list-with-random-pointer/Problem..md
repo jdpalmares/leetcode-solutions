@@ -19,21 +19,21 @@ Your code will **only** be given the `head` of the original linked list.
 
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2019/12/18/e1.png)
+![alt text](https://assets.leetcode.com/uploads/2019/12/18/e1.png)
 ```console
 Input: head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 Output: [[7,null],[13,0],[11,4],[10,2],[1,0]]
 ```
 
 ### Example 2:
-[Example 2 image](https://assets.leetcode.com/uploads/2019/12/18/e2.png)
+![alt text](https://assets.leetcode.com/uploads/2019/12/18/e2.png)
 ```console
 Input: head = [[1,1],[2,1]]
 Output: [[1,1],[2,1]]
 ```
 
 ### Example 3:
-[Example 3 image](https://assets.leetcode.com/uploads/2019/12/18/e3.png)
+![alt text](https://assets.leetcode.com/uploads/2019/12/18/e3.png)
 ```console
 Input: head = [[3,null],[3,0],[3,null]]
 Output: [[3,null],[3,0],[3,null]]

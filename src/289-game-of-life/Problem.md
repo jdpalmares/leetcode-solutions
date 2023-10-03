@@ -15,14 +15,14 @@ The board is made up of an `m x n` grid of cells, where each cell has an initial
 The next state is created by applying the above rules simultaneously to every cell in the current state, where births and deaths occur simultaneously. Given the current state of the `m x n` grid `board`, return *the next state*.
 
 ### Example 1:
-[Game of Life Example 1 Image](https://assets.leetcode.com/uploads/2020/12/26/grid1.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/12/26/grid1.jpg)
 ```console
 Input: board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
 Output: [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
 ```
 
 ### Example 2:
-[Game of Life Example 2 Image](https://assets.leetcode.com/uploads/2020/12/26/grid2.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/12/26/grid2.jpg)
 ```console
 Input: board = [[1,1],[1,0]]
 Output: [[1,1],[1,1]]

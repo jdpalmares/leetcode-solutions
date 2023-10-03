@@ -9,21 +9,21 @@ Two binary trees are considered the same if they are structurally identical, and
 
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2020/12/20/ex1.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/12/20/ex1.jpg)
 ```console
 Input: p = [1,2,3], q = [1,2,3]
 Output: true
 ```
 
 ### Example 2:
-[Example 2 image](https://assets.leetcode.com/uploads/2020/12/20/ex2.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/12/20/ex2.jpg)
 ```console
 Input: p = [1,2], q = [1,null,2]
 Output: false
 ```
 
 ### Example 3:
-[Example 3 image](https://assets.leetcode.com/uploads/2020/12/20/ex3.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/12/20/ex3.jpg)
 ```console
 Input: p = [1,2,1], q = [1,1,2]
 Output: false

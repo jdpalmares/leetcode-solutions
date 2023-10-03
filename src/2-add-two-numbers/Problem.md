@@ -8,7 +8,7 @@ You are given two **non-empty** linked lists representing two non-negative integ
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg)
+![alt text](https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg)
 ```console
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]

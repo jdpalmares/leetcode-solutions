@@ -19,7 +19,7 @@ Initially, all next pointers are set to `NULL`.
 
 
 ### Example 1:
-[Example 1 image](https://assets.leetcode.com/uploads/2019/02/15/117_sample.png)
+![alt text](https://assets.leetcode.com/uploads/2019/02/15/117_sample.png)
 ```console
 Input: root = [1,2,3,4,5,null,7]
 Output: [1,#,2,3,#,4,5,7,#]

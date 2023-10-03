@@ -15,7 +15,7 @@ Each of the nine `3 x 3` sub-boxes of the grid must contain the digits `1-9` wit
 - Only the filled cells need to be validated according to the mentioned rules.
 
 ### Example 1:
-[Sudoku Example 1 Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
 ```console
 Input: board =
 [["5","3",".",".","7",".",".",".","."]
